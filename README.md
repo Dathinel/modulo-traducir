@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#licencia"><img src="https://img.shields.io/badge/c%C3%B3digo-GPLv3-E8833A?style=flat-square&labelColor=1D1D1D" alt="Código GPLv3"></a>
   <a href="https://github.com/Dathinel/modulo-traducir/releases/latest"><img src="https://img.shields.io/github/v/release/Dathinel/modulo-traducir?style=flat-square&labelColor=1D1D1D&color=E8833A&label=versi%C3%B3n" alt="Última versión"></a>
+  <img src="https://img.shields.io/badge/contenido-1_funci%C3%B3n_%C2%B7_1_modelo-E8833A?style=flat-square&labelColor=1D1D1D" alt="Contenido: 1 función · 1 modelo">
   <img src="https://img.shields.io/badge/formato-.paquete-E8833A?style=flat-square&labelColor=1D1D1D" alt="Formato .paquete">
   <a href="https://github.com/Dathinel/rodaje"><img src="https://img.shields.io/badge/para-Rodaje-E8833A?style=flat-square&labelColor=1D1D1D" alt="Para Rodaje"></a>
 </p>
@@ -31,7 +32,7 @@ El `.paquete` no trae los modelos: Rodaje los baja después de instalar el módu
 
 ## Instalar en Rodaje
 
-En Rodaje, Complementos → Instalar lo baja, comprueba la firma del catálogo y el hash, lo instala y baja sus modelos. A mano: descarga `modulo-traducir-1.0.0.paquete` de las [releases](https://github.com/Dathinel/modulo-traducir/releases) y usa «Instalar desde archivo…» en Complementos; después, «Bajar modelos».
+En Rodaje, Complementos → Instalar lo baja, comprueba la firma del catálogo y el hash, lo instala y baja sus modelos. A mano: descarga `modulo-traducir-<versión>.paquete` de las [releases](https://github.com/Dathinel/modulo-traducir/releases) y usa «Instalar desde archivo…» en Complementos; después, «Bajar modelos». Más detalles en la [guía de complementos](https://github.com/Dathinel/rodaje/blob/main/docs/guia/complementos.md).
 
 ## Código
 
